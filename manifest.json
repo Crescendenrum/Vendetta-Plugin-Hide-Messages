@@ -1,0 +1,8 @@
+{
+    "name": "Compact images",
+    "description": "This extension will make images compact by combining them into a slide show, which will be displayed in a single image.",
+    "version": "0.1.0",
+    "author": "crescendenrum",
+    "main": "index.js"
+  }
+  
